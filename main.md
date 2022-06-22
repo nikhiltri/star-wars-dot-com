@@ -24,7 +24,7 @@ Luke gets trained from Yoda! Luke is a Jedi who knows how to use the force very 
 
 Yoda is the strongest Jedi master! Wise Yoda is more than 900 years old. He is the most powerful Jedi and the best at lightsaber battles. So don't be fooled by his small size! He is very strong.
 
-<img align="right" src="images/obi-wan.jpg" width="300" alt="Young Obi-wan holds a blue lightsaber sideways. He also has a strong look on his face.">
+<img align="right" src="images/obi-wan.jpg" alt="Young Obi-wan holds a blue lightsaber sideways. He also has a strong look on his face.">
 
 ### Obi-Wan Kenobi
 
