@@ -58,7 +58,7 @@ Darth Vader is powerful in the dark side of the force. He hurts people that do t
 
 General Grievous has four arms and is a very bad, bad, bad guy. He has lightsabers that he stole from Jedis. How would you battle General Grievous?
 
-## [Troopers](troppers.html)
+## [Troopers](troopers.html)
 
 ## Droids
 
