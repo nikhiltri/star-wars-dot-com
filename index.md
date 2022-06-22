@@ -1,1 +1,1 @@
-[![All nine of the Star Wars moview logos](splash.jpg)](main.html)
+[![All nine of the Star Wars moview logos](images/splash.jpg)](main.html)

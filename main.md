@@ -2,6 +2,8 @@
 
 ## Fighting Heroes
 
+<img align="right" src="images/rey.jpg" alt="Rey has long brown hair tied back in a pony tail. She hold a blue lightsaber tilted back, with a strong look on her face.">
+
 ### Rey
 
 Rey is a strong fighter and she's also very daring! Rey is learning how to use the force very strongly. She can also fly ships! Rey is a very skilled fighter. She has a big, long staff that she holds in the middle and uses it to battle! She also has a light saber like most of the other heroes and some of the villains. She is my favorite character.
@@ -21,6 +23,8 @@ Luke gets trained from Yoda! Luke is a Jedi who knows how to use the force very 
 ### Yoda
 
 Yoda is the strongest Jedi master! Wise Yoda is more than 900 years old. He is the most powerful Jedi and the best at lightsaber battles. So don't be fooled by his small size! He is very strong.
+
+<img align="right" src="images/obi-wan.jpg" width="300" alt="Young Obi-wan holds a blue lightsaber sideways. He also has a strong look on his face.">
 
 ### Obi-Wan Kenobi
 
