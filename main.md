@@ -2,7 +2,7 @@
 
 ## Fighting Heroes
 
-<img align="right" src="images/rey.jpg" alt="Rey has long brown hair tied back in a pony tail. She hold a blue lightsaber tilted back, with a strong look on her face.">
+<img align="right" src="images/rey.jpg" alt="Rey has long brown hair tied back in a pony tail. She hold a blue lightsaber tilted back, with a strong look on her face." />
 
 ### Rey
 
@@ -24,7 +24,7 @@ Luke gets trained from Yoda! Luke is a Jedi who knows how to use the force very 
 
 Yoda is the strongest Jedi master! Wise Yoda is more than 900 years old. He is the most powerful Jedi and the best at lightsaber battles. So don't be fooled by his small size! He is very strong.
 
-<img align="right" src="images/obi-wan.jpg" alt="Young Obi-wan holds a blue lightsaber sideways. He also has a strong look on his face.">
+<img align="right" src="images/obi-wan.jpg" alt="Young Obi-wan holds a blue lightsaber sideways. He also has a strong look on his face." />
 
 ### Obi-Wan Kenobi
 
@@ -50,13 +50,19 @@ He loves podraces, but his way to win isn't good. Whoever is ahead of him, he sm
 
 ## The Dangerous Empire
 
+<img align="right" src="images/kylo-ren.jpg" alt="Kylo Ren is jumping with one leg out to the side and his arm down. He is holding his lightsaber behind him." />
+
 ### Kylo Ren!!!
 
 He has a lightsaber that has two small lightsabers coming out of either side! He looks like Darth Vader but much scarier. Beware of him, he has dark powers. Kylo Ren is Leia and Han's son. He was trying to be a Jedi but was tempted by the dark side. Now he works for the scary First Order.
 
+<img align="right" src="images/darth-vadar.jpg" alt="Darth Vadar holding his hand out. He is turned to the side but looking your way. He has his lightsaber activated and his cape flying forward. With red fog coming up." />
+
 ### Darth Vader
 
 Darth Vader is powerful in the dark side of the force. He hurts people that do things he doesn't like, even if they're part of the dark side. I don't think that's very good of him, but he is on the dark side.
+
+> <video controls width="100%" height="60px" src="https://github.com/nikhiltri/star-wars-dot-com/blob/main/audio/darth-vadar-breathing.webm?raw=true"></video>
 
 ### General Grievous
 
